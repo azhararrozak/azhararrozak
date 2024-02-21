@@ -1,4 +1,4 @@
-[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)](https://detailmycv.me/)
+[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)](https://azhararrozak.linksme.site/)
 <h1 align="center">Hello Everyone 👋, I'm Azhar Arrozak </h1>
 <h3 align="center">A passionate Fullstack Web Developer</h3>
 <img align="right" align="center" width="400" alt="coder" src="https://media.tenor.com/fdvOlldr5RYAAAAC/private.gif" />
@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **azhardrozak2001@upi.edu**
 
-- 📄 Know about my experiences on [here](https://detailmycv.me/)
+- 📄 Know about my experiences on [here](https://azhararrozak.linksme.site/)
 
-- :heart: Favorite Programming Language **Javascript**
+- :heart: Favorite Programming Language **Javascript and Typescript**
 
 - ⚡ Fun fact **Long life learner**
 
