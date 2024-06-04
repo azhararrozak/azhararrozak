@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📝 I regularly write articles on [here](https://www.inspiration-corner.my.id/)
+- 📝 I regularly write articles on [myblog_here](https://blog.azhararrozak.my.id/)
 
 - 💬 Ask me about **React, Node.JS, Front-end, Back-end**
 
 - 📫 How to reach me **azhardrozak2001@upi.edu**
 
-- 📄 Know about my experiences on [here](https://azhararrozak.linksme.site/)
+- 📄 Know about my experiences on [myweb_portfolio_here](https://azhararrozak.my.id/)
 
 - :heart: Favorite Programming Language **Javascript and Typescript**
 
