@@ -1,11 +1,11 @@
-[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)](https://azhararrozak.linksme.site/)
+[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)](https://azhararrozak.my.id/)
 <h1 align="center">Hello Everyone 👋, I'm Azhar Arrozak </h1>
 <h3 align="center">A passionate Fullstack Web Developer</h3>
 <img align="right" align="center" width="400" alt="coder" src="https://media.tenor.com/fdvOlldr5RYAAAAC/private.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azhararrozak&label=Profile%20views&color=0e75b6&style=flat" alt="azhararrozak" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack and PHP (Laravel, CI)**
 
 - 📝 I regularly write articles on [myblog_here](https://blog.azhararrozak.my.id/)
 
