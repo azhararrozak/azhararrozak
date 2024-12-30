@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azhararrozak&label=Profile%20views&color=0e75b6&style=flat" alt="azhararrozak" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack and PHP (Laravel, CI)**
+- 🌱 I’m currently learning **NEXTJS, VUEJS, MERN Stack and PHP (Laravel)**
 
 - 📝 I regularly write articles on [myblog_here](https://blog.azhararrozak.my.id/)
 
-- 💬 Ask me about **React, Node.JS, Front-end, Back-end**
+- 💬 Ask me about **NextJS, ReactJS, Node.JS, Laravel, VueJS Front-end, Back-end**
 
 - 📫 How to reach me **azhardrozak2001@upi.edu**
 
