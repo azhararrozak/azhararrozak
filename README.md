@@ -4,7 +4,7 @@
 
 <h1>Hello Everyone 👋 , I'm Azhar Arrozak</h1>
 <h3>A passionate Fullstack Web Developer</h3>
-<img align="right" width="400" alt="coder" src="https://media.tenor.com/fdvOlldr5RYAAAAC/private.gif" />
+<img align="right" width="300" alt="coder" src="https://media.tenor.com/fdvOlldr5RYAAAAC/private.gif" />
 
 </div>
 
