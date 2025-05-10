@@ -31,3 +31,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azhararrozak&show_icons=true&locale=en&layout=compact" alt="azhararrozak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azhararrozak&" alt="azhararrozak" /></p>
+
+![snake gif](https://github.com/azhararrozak/azhararrozak/blob/output/github-snake-dark.svg)
